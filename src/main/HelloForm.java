@@ -20,6 +20,7 @@ import javax.swing.Timer;
 /**
  *
  * @author PS19229 - TRANHOANGTHUYVAN
+ *lalala - pupuchacha
  */
 public class HelloForm extends javax.swing.JFrame {
     ArrayList<String> list = new ArrayList<>();
